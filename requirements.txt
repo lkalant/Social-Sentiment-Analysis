@@ -1,0 +1,13 @@
+# requirements.txt
+
+threading
+time
+re
+json
+tkinter
+kafka-python
+praw
+prawcore
+matplotlib
+nltk
+pandas
