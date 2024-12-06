@@ -203,9 +203,3 @@ reddit_sentiment_analysis/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-```
-
-```
