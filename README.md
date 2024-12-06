@@ -93,15 +93,6 @@ Before setting up the project, ensure you have the following installed on your s
    MAX_POSTS = 100
    ```
 
-   **Security Note:** Ensure that `config.py` is **not** committed to version control to protect your sensitive information. Consider adding it to `.gitignore`.
-
-   ```gitignore
-   # .gitignore
-
-   # Configuration files
-   config.py
-   ```
-
 2. **Download NLTK Data**
 
    The sentiment analysis module requires the VADER lexicon. If not already downloaded, run the following in Python:
